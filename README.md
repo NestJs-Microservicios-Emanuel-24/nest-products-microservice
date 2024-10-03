@@ -1,5 +1,18 @@
 # 🛍️ Product Microservice by Emanuel Chusgo
 
+
+![Objetivo del proyecto o curso de microservicios con nestjs](/public/objetivopng)
+
+## Tecnologías utilizadas
+
+- **NestJS**: Un framework para construir aplicaciones del lado del servidor.
+- **SQLite**: Un sistema de gestión de bases de datos liviano.
+- **TypeScript**: Un superconjunto de JavaScript que añade tipos estáticos.
+- **Microservicios**: Arquitectura que permite desarrollar aplicaciones como un conjunto de servicios pequeños e independientes.
+- **Prisma**: Un ORM para TypeScript y Node.js que facilita la manipulación de bases de datos.
+- **JavaScript**: El lenguaje de programación subyacente.
+
+
 ## 🚀 Configuración para Desarrollo
 
 ### Prerrequisitos
@@ -50,3 +63,4 @@ Las contribuciones son bienvenidas. Por favor, lee las [guías de contribución]
 ## 📄 Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
