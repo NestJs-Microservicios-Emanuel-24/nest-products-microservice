@@ -5,7 +5,7 @@ import { envs } from './config';
 import { MicroserviceOptions, Transport } from '@nestjs/microservices';
 
 async function bootstrap() {
-  const logger = new Logger('main');
+  const logger = new Logger('\x1b[34m*****MAIN PRODUCTS MS ******\x1b[0m');
   console.log('NATS: ', envs.nats_servers);
 
   const app = await NestFactory.createMicroservice<MicroserviceOptions>(
